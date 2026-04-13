@@ -1,0 +1,1 @@
+Acá generamos todos los archivos del perfil de usuario en este ejemplo.
